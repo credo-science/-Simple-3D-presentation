@@ -5,3 +5,7 @@ Presentation of detection from a 2D graphic to 3D file.
 The PROJEKT1.EXE file is written in LazarusPascal for Windows. Saves the Z height data in the CSV file. Height is the brightness of the pixel.
 
 3Dplot Python script downloaded from: https://python-graph-gallery.com/371-surface-plot/
+
+
+More information :
+https://credo.science/credodetektor/viewtopic.php?f=9&t=69
